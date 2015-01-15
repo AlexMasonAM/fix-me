@@ -1,4 +1,4 @@
-Fruit.create([{ name: "Applie", quantity: 100, origin: Faker::Address.city},
+Fruit.create([{ name: "Apple", quantity: 100, origin: Faker::Address.city},
              { name: "Pear", quantity: 35, origin: Faker::Address.city},
              { name: "Banana", quantity: 12, origin: Faker::Address.city}])
 Vegetable.create([{ name: "Spinach", quantity: 22, origin: Faker::Address.city},
